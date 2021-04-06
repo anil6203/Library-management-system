@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1606374264 source:/home/anil/Documents/Eight_Puzzle/video Library test/main.cpp
+	"Driver.h"
+	<bits/stdc++.h>
+
+1606379548 /home/anil/Documents/Eight_Puzzle/video Library test/Driver.h
+	"video_library.h"
+
+1606379675 /home/anil/Documents/Eight_Puzzle/video Library test/video_library.h
+	<iostream>
+	<bits/stdc++.h>
+

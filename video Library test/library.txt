@@ -1,0 +1,16 @@
+art_of_living
+manas
+SB01
+500
+Electoronics_and_communicatio
+compurter_vision
+SB02
+500
+computer_science
+computer_vision
+SB03
+500
+mistory_of_mecahtronics
+manas
+SB04
+500
